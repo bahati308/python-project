@@ -1,2 +1,2 @@
 # python-project
-this contains python projects I am learning 
+This contains the projects we are working on at school for Python particularl AI related
